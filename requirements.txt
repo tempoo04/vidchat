@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+openai
+langchain-google-genai
+langchain_experimental
+scrapetube
+yt_dlp
+pydub
+faiss-cpu
+streamlit
+python-dotenv
