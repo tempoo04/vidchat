@@ -1,0 +1,6 @@
+.env
+audios/
+__pycache__/
+*.pyc
+.streamlit/
+
