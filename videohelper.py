@@ -8,7 +8,7 @@ from youtubevideo import YoutubeVideo
 
 load_dotenv()
 
-my_key_openai = os.getenv("openai_apikey")
+my_key_openai = os.getenv("OPENAI_KEY")
 
 #1 Transcription
 def get_video_transcript(url):
